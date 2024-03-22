@@ -29,7 +29,8 @@
     - 날짜, 평균기온, 최저기온, 최고기온
 - 각 계절의 시작일 데이터 생성
     
-    ![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/c19dc72a-3d43-4061-8eee-c886a3ffbb0f/68315a62-3b84-423a-8261-b7135d57b8de/Untitled.png)
+    ![계절구분](https://github.com/KDT5NUMPY/KDT-5_NumpyProject/assets/155441547/b7282c50-041b-4f9b-a90e-3e58963027d7)
+
     
     - 기상청이 제시한 온도로 알아보는 계절 시작일 활용
     - 대구의 평균기온 데이터를 활용하여 시작일 데이터를 생성함.
@@ -47,7 +48,8 @@
 
 ### (2) 그래프 결과
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/c19dc72a-3d43-4061-8eee-c886a3ffbb0f/d71bb39d-0a2a-43d4-a2fc-ed1aa309506c/Untitled.png)
+![four_season](https://github.com/KDT5NUMPY/KDT-5_NumpyProject/assets/155441547/9c1f4882-41d0-40a6-b9d9-388d0f4b74c7)
+
 
 ![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/c19dc72a-3d43-4061-8eee-c886a3ffbb0f/381cb5a4-bda8-472e-b7e6-0af186e317aa/Untitled.png)
 
