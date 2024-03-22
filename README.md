@@ -52,7 +52,7 @@
 ![four_season](https://github.com/KDT5NUMPY/KDT-5_NumpyProject/assets/155441547/9c1f4882-41d0-40a6-b9d9-388d0f4b74c7)
 
 <div align="center">
-  <img src="https://github.com/KDT5NUMPY/KDT-5_NumpyProject/assets/155441547/9c1f4882-41d0-40a6-b9d9-388d0f4b74c7" alt="Image">
+  <img src="https://github.com/KDT5NUMPY/KDT-5_NumpyProject/assets/155441547/46f1db2a-d72f-4929-962d-10ebd6f2fd3f" alt="Image">
 </div>
 
 
