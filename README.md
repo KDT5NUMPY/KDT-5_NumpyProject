@@ -51,9 +51,10 @@
 
 ![four_season](https://github.com/KDT5NUMPY/KDT-5_NumpyProject/assets/155441547/9c1f4882-41d0-40a6-b9d9-388d0f4b74c7)
 
-<p align="center">
-![spring_date](https://github.com/KDT5NUMPY/KDT-5_NumpyProject/assets/155441547/53e47f49-27ee-4443-8ad3-a34338b70af8)
-</p>
+<div align="center">
+  <img src="https://github.com/KDT5NUMPY/KDT-5_NumpyProject/assets/155441547/b7282c50-041b-4f9b-a90e-3e58963027d7" alt="Image">
+</div>
+
 
 <div align="center">
   [봄 시작일 예측]
