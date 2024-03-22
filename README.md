@@ -66,8 +66,9 @@
   2040년 : 3월 1일
 </div>
 
-
-![summer_date](https://github.com/KDT5NUMPY/KDT-5_NumpyProject/assets/155441547/d02943f5-767b-4000-be69-7c4c893101f6)
+<div align="center">
+  <img src="https://github.com/KDT5NUMPY/KDT-5_NumpyProject/assets/155441547/d02943f5-767b-4000-be69-7c4c893101f6" alt="Image">
+</div>
 
 <div align="center">
  [여름 시작일 예측]
@@ -79,8 +80,9 @@
   2040년 : 6월 1일
 </div>
 
-
-![fall_date](https://github.com/KDT5NUMPY/KDT-5_NumpyProject/assets/155441547/aea9b46b-1819-462b-9516-e0832a0c49be)
+<div align="center">
+  <img src="https://github.com/KDT5NUMPY/KDT-5_NumpyProject/assets/155441547/aea9b46b-1819-462b-9516-e0832a0c49be" alt="Image">
+</div>
 
 <div align="center">
  [가을 시작일 예측]
@@ -92,9 +94,9 @@
   2040년 : 10월 5일
 </div>
 
-
-![winter_date](https://github.com/KDT5NUMPY/KDT-5_NumpyProject/assets/155441547/63cf1861-1ae3-4026-a561-cdafa2b02ce8)
-
+<div align="center">
+  <img src="https://github.com/KDT5NUMPY/KDT-5_NumpyProject/assets/155441547/63cf1861-1ae3-4026-a561-cdafa2b02ce8" alt="Image">
+</div>
 <div align="center">
  [겨울 시작일 예측]
 
